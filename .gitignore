@@ -130,3 +130,5 @@ dmypy.json
 
 # Custom
 *KEY.ipynb
+/*.code-workspace
+.vscode
