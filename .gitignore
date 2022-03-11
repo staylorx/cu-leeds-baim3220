@@ -130,5 +130,11 @@ dmypy.json
 
 # Custom
 *KEY.ipynb
-/*.code-workspace
-.vscode
+
+# Dendron
+node_modules
+.dendron.*
+build
+seeds
+.next
+pods/service-connections
